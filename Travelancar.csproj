@@ -132,11 +132,13 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\mystyle.css" />
+    <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Image\logo.png" />
+    <Content Include="Image\saya.png" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -164,6 +166,15 @@
     <Content Include="Views\Home\index.cshtml" />
     <Content Include="Views\Home\daftarpesanan.cshtml" />
     <Content Include="Views\Home\detailpesanan.cshtml" />
+    <Content Include="Views\Home\BankLogin.cshtml" />
+    <Content Include="Views\Home\BankDashboard.cshtml" />
+    <Content Include="Views\Home\TransferSaldo.cshtml" />
+    <Content Include="Views\Home\TransferSaldo_2.cshtml" />
+    <Content Include="Views\Home\RiwayatTransfer.cshtml" />
+    <Content Include="Views\Home\BerhasilTransaksi.cshtml" />
+    <Content Include="Views\Home\GagalTransaksi.cshtml" />
+    <Content Include="Views\Home\AkunBerhasil.cshtml" />
+    <Content Include="Views\Home\AkunGagal.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
