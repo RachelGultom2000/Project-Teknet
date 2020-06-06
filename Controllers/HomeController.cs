@@ -8,8 +8,10 @@ namespace Travelancar.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult TravelancarDashboard()
         {
+            ViewBag.Message = "Dashboard";
+
             return View();
         }
 
@@ -26,8 +28,6 @@ namespace Travelancar.Controllers
 
             return View();
         }
-
-
 
 
     }
