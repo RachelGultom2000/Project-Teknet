@@ -10,6 +10,7 @@
     <UseGlobalApplicationHostFile />
     <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
     <WebStackScaffolding_ViewDialogWidth>600</WebStackScaffolding_ViewDialogWidth>
+<<<<<<< HEAD
     <Controller_SelectedScaffolderID>MvcControllerEmptyScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Controller</Controller_SelectedScaffolderCategoryPath>
     <WebStackScaffolding_ControllerDialogWidth>600</WebStackScaffolding_ControllerDialogWidth>
@@ -18,6 +19,8 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+=======
+>>>>>>> 9a7abf9ad4deba16c10ccc31c9770f8e9a37afcb
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
@@ -25,7 +28,11 @@
         <WebProjectProperties>
           <StartPageUrl>
           </StartPageUrl>
+<<<<<<< HEAD
           <StartAction>SpecificPage</StartAction>
+=======
+          <StartAction>CurrentPage</StartAction>
+>>>>>>> 9a7abf9ad4deba16c10ccc31c9770f8e9a37afcb
           <AspNetDebugging>True</AspNetDebugging>
           <SilverlightDebugging>False</SilverlightDebugging>
           <NativeDebugging>False</NativeDebugging>

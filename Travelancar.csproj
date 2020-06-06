@@ -120,8 +120,11 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+<<<<<<< HEAD
     <Compile Include="Controllers\DaftarPesananController.cs" />
     <Compile Include="Controllers\DetailPesananController.cs" />
+=======
+>>>>>>> 9a7abf9ad4deba16c10ccc31c9770f8e9a37afcb
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -165,9 +168,24 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Home\TravelancarDashboard.cshtml" />
     <Content Include="Views\DaftarPesanan\DaftarPesanan.cshtml" />
     <Content Include="Views\DetailPesanan\DetailPesanan.cshtml" />
+=======
+    <Content Include="Views\Home\index.cshtml" />
+    <Content Include="Views\Home\daftarpesanan.cshtml" />
+    <Content Include="Views\Home\detailpesanan.cshtml" />
+    <Content Include="Views\Home\BankLogin.cshtml" />
+    <Content Include="Views\Home\BankDashboard.cshtml" />
+    <Content Include="Views\Home\TransferSaldo.cshtml" />
+    <Content Include="Views\Home\TransferSaldo_2.cshtml" />
+    <Content Include="Views\Home\RiwayatTransfer.cshtml" />
+    <Content Include="Views\Home\BerhasilTransaksi.cshtml" />
+    <Content Include="Views\Home\GagalTransaksi.cshtml" />
+    <Content Include="Views\Home\AkunBerhasil.cshtml" />
+    <Content Include="Views\Home\AkunGagal.cshtml" />
+>>>>>>> 9a7abf9ad4deba16c10ccc31c9770f8e9a37afcb
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

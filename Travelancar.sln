@@ -5,8 +5,11 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travelancar", "Travelancar.csproj", "{342A9C19-5139-4C7E-97C3-80E643887C20}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankKonservatif", "BankKonservatif\BankKonservatif.csproj", "{4C484ACE-9B8B-44A3-BBC3-10A0E463D8B7}"
 EndProject
+=======
+>>>>>>> 9a7abf9ad4deba16c10ccc31c9770f8e9a37afcb
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +20,13 @@ Global
 		{342A9C19-5139-4C7E-97C3-80E643887C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{342A9C19-5139-4C7E-97C3-80E643887C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{342A9C19-5139-4C7E-97C3-80E643887C20}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{4C484ACE-9B8B-44A3-BBC3-10A0E463D8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4C484ACE-9B8B-44A3-BBC3-10A0E463D8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C484ACE-9B8B-44A3-BBC3-10A0E463D8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C484ACE-9B8B-44A3-BBC3-10A0E463D8B7}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+>>>>>>> 9a7abf9ad4deba16c10ccc31c9770f8e9a37afcb
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
